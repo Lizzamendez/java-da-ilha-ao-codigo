@@ -1,0 +1,43 @@
+Gere uma narração natural e simpática a partir do roteiro “Java: da Ilha ao Código”.
+O tom deve ser leve, acolhedor e divertido, como se fosse uma conversa de café sobre tecnologia.
+A locução deve ser em português do Brasil, fluida e espontânea, sem termos técnicos.
+
+Configurações usadas:
+- Modelo: Eleven Multilíngue v2
+- Voz: Alice
+- Velocidade: 1
+- Estabilidade: 50%
+- Aumento de similitude: 75%
+- Estilo: 0%
+
+Roteiro completo disponível em [`/roteiro/roteiro-elevenlabs.txt`](roteiro/roteiro-elevenlabs.txt)
+
+---
+
+## ☕ Descrição do Episódio
+
+Prepare o café e aperta o play!  
+Neste episódio do **TechCast**, a gente descobre que o **Java** não é só uma ilha na Indonésia — é também uma das linguagens que movem o mundo! 💻🌎  
+
+De engenheiros movidos à cafeína até o seu celular Android, o Java mostra que criatividade e curiosidade valem mais do que qualquer código complicado.  
+**Uma história pra quem ama tecnologia, café e boas risadas.** ☕💬  
+
+---
+
+## 💬 Tags
+
+`#Java` `#PodcastTech` `#IA` `#AprendizadoDivertido` `#TechCast` `#ProgramaçãoSimples`
+
+---
+
+## 📬 Créditos
+
+- **Roteiro:** ChatGPT  
+- **Voz e áudio:** ElevenLabs  
+- **Capa:** Copilot  
+- **Desafio:** DIO – Digital Innovation One  
+
+---
+
+> 💡 *“Criatividade é quando a curiosidade toma café.”* ☕✨  
+ 
