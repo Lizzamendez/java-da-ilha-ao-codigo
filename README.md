@@ -63,7 +63,7 @@ O episódio **"Java — Da Ilha ao Código"** explica, de forma descontraída, c
   - Estilo: 0%  
   - Velocidade: 1  
   - Aumento de alto-falantes: habilitado  
-- **Midjourney** → para gerar a capa do podcast.  
+- **Copilot** → para gerar a capa do podcast.  
 - **GitHub** → para versionamento e publicação do projeto.
 
 ---
@@ -84,7 +84,7 @@ O episódio **"Java — Da Ilha ao Código"** explica, de forma descontraída, c
 
 - **Roteiro e curadoria:** Lizza Méndez  
 - **Voz gerada por IA:** Alice (ElevenLabs)  
-- **Imagem:** Midjourney  
+- **Imagem:** Copilot  
 - **Assistente criativo:** ChatGPT (GPT-5)  
 - **Desafio proposto por:** DIO — Digital Innovation One
 
