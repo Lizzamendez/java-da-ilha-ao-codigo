@@ -1,0 +1,5 @@
+Crie um roteiro curto e divertido sobre Java, em português do Brasil, com linguagem leve, acessível e juvenil. 
+Evite termos técnicos e torne a explicação interessante até para quem não entende de programação. 
+O roteiro deve ter clima de podcast, com pausas, humor e curiosidades. 
+Inclua a origem do nome "Java" (a ilha e o café) e faça analogias criativas que deixem o conteúdo fácil de ouvir. 
+O resultado deve ter duração aproximada de 1 a 2 minutos, com um toque leve e inspirador no final.
