@@ -55,13 +55,13 @@ O episódio **"Java — Da Ilha ao Código"** explica, de forma descontraída, c
 
 ## 🌅 Capa do episódio
 
-<img src="Imagens/java.png" alt="Capa do episódio TechCast: Java — da Ilha ao Código" width="400"/>
+<img src="./java.png" alt="Capa do episódio TechCast: Java — da Ilha ao Código" width="400"/>
 
 ---
 
 ## 🔊 Ouça o episódio
 
-🎧 [Clique aqui para ouvir o áudio](./audio/podcastjava.mp3)
+🎧 [Clique aqui para ouvir o áudio](./podcastjava.mp3)
 
 ---
 
