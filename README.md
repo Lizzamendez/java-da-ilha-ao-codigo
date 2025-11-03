@@ -19,21 +19,37 @@ O episódio **"Java — Da Ilha ao Código"** explica, de forma descontraída, c
 ## 🗂️ Estrutura do repositório
 
 📁 java-da-ilha-ao-codigo
+
 │
+
 ├── 🎙️ /audio
+
 │   └── podcastjava.mp3.mp3
+
 │
+
 ├── 🎨 /imagens
+
 │   └── java.png
+
 │
+
 ├── 💬 /prompts
+
 │   ├── prompt-chatgpt.txt
+
 │   ├── prompt-elevenlabs.txt
+
 │   └── prompt-midjourney.txt
+
 │
+
 ├── 📜 /roteiro
+
 │   └── roteiro-java.txt
+
 │
+
 └── README.md
 
 ---
