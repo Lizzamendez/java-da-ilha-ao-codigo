@@ -1,0 +1,75 @@
+🎧 1️⃣ ROTEIRO PRONTO PARA ELEVENLABS
+
+🔸 Objetivo: o texto está formatado com pausas, ênfases e ritmo natural, pra que a voz gerada soe envolvente, leve e divertida.
+🔸 Você pode colar esse texto direto no ElevenLabs e escolher uma voz jovem e simpática 
+
+🎙️ Roteiro — “Java: da Ilha ao Código”
+
+[Trilha leve de fundo. Som de café sendo servido.]
+
+Ei, você aí! ☕
+Bem-vindo ao TechCast — o podcast onde tecnologia e diversão se misturam!
+
+Hoje o papo é sobre uma palavra que confunde muita gente: Java!
+
+(risos leves)
+A primeira vez que me falaram de Java, eu pensei:
+“Ué, tão me chamando pra uma viagem pra uma ilha?” 🏝️
+E, acredite se quiser, não tava errado!
+
+Java é mesmo o nome de uma ilha da Indonésia.
+Mas também é o nome de uma das linguagens de programação mais famosas do mundo.
+E adivinha por quê?
+Porque os criadores estavam tomando café… da ilha de Java!
+Ou seja: o Java é basicamente cafeína em forma de código! ☕💻
+
+Nos anos 90, um grupo de engenheiros meio malucos — e provavelmente com muito sono —
+queria criar uma linguagem que funcionasse em qualquer lugar.
+Tipo aquele amigo que se dá bem em todo rolê. 😎
+
+Enquanto tomavam café, eles pensaram:
+“E se a gente chamasse isso aqui de... Java?”
+E pronto.
+Nascia uma linguagem que até hoje move o mundo digital.
+
+Java tem um lema bem estiloso:
+“Escreva uma vez, rode em qualquer lugar.”
+
+Traduzindo:
+Você cria o programa uma vez, e ele funciona em tudo —
+computador, celular… até geladeira esperta!
+
+Java é tipo aquele herói que não é o mais bonito,
+mas é o que salva o dia. 🦸‍♂️
+
+Agora… se você acha que programar é coisa de gênio, calma lá.
+O Java fala com o computador usando frases parecidas com o inglês.
+
+Por exemplo:
+System.out.println("Olá, mundo!");
+
+Que em português significa:
+“Oi, mundo! Tô aqui!” 🌍
+
+Simples, né?
+Mas cuidado: se esquecer um ponto e vírgula… o computador surta. 😂
+
+Mesmo depois de décadas, o Java continua firme e forte.
+Tá em bancos, empresas, universidades, jogos…
+e principalmente nos aplicativos Android. 📱
+
+Então, se você tá ouvindo esse podcast no celular…
+pode apostar que o Java tá aí dentro,
+trabalhando duro e tomando café! ☕
+
+E a moral do café é essa:
+Por trás de toda tecnologia, tem gente curiosa, criativa
+e movida a cafeína tentando deixar o mundo mais legal.
+
+Quem sabe, o próximo gênio movido a café… não é você? 😉
+
+[Trilha de encerramento suave]
+
+Esse foi o TechCast de hoje!
+Se curtiu, compartilha com aquele amigo que ainda acha que Java é só uma ilha paradisíaca.
+Segue a gente e até o próximo episódio! 
