@@ -9,7 +9,7 @@ Este episódio é uma viagem leve e curiosa pelo universo do **Java** — da ilh
 
 ## 🧠 Sobre o projeto
 
-Este podcast foi criado como parte de um desafio prático da **DIO (Digital Innovation One)**.  
+Este podcast foi criado como parte de um desafio prático da **DIO (Digital Innovation One)**. https://github.com/felipeAguiarCode/prompts-for-podcast-generate-by-ia 
 A ideia foi transformar um conteúdo técnico em algo **acessível, leve e inspirador**, mostrando que aprender tecnologia pode ser divertido.
 
 O episódio **"Java — Da Ilha ao Código"** explica, de forma descontraída, como o Java surgiu, o que ele tem a ver com café e por que até hoje ele é uma das linguagens mais amadas (e temidas 😅) da programação.
